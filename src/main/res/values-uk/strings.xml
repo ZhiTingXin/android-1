@@ -137,7 +137,6 @@
     <string name="common_choose_account">Оберіть обліковий запис</string>
     <string name="sync_fail_ticker">Помилка синхронізації</string>
     <string name="sync_conflicts_in_favourites_ticker">Конфліктів знайдено</string>
-    <string name="sync_conflicts_in_favourites_content">%1$d файли, які мають бути синхронізованими не можуть синхронізуватися</string>
     <string name="sync_fail_in_favourites_ticker">Синхронізувати файли не вдалося</string>
     <string name="sync_fail_in_favourites_content">Зміст %1$d файлів не може бути синхронізований (%2$d конфліктів)</string>
     <string name="sync_foreign_files_forgotten_ticker">Деякі локальні файли були забуті</string>
