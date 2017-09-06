@@ -139,7 +139,6 @@
     <string name="sync_conflicts_in_favourites_ticker">Конфліктів знайдено</string>
     <string name="sync_fail_in_favourites_ticker">Синхронізувати файли не вдалося</string>
     <string name="sync_foreign_files_forgotten_ticker">Деякі локальні файли були забуті</string>
-    <string name="sync_foreign_files_forgotten_content">Неможливо скопіювати %1$d файли з теки %2$s</string>
     <string name="foreign_files_move">Перемістити все</string>
     <string name="foreign_files_success">Всі файли були переміщені</string>
     <string name="foreign_files_fail">Деякі файли не можуть бути переміщені</string>
